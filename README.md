@@ -43,5 +43,6 @@ Just run ``python3 salary_linear_regression.py``
 
 
 ## Credits
-Siraj, Vallery Atieno and Setdex -Teachers
-Arnold Suolo -Internet provider
+Teachers-Siraj, Vallery Atieno and Setdex
+
+Internet provider-Arnold Suolo 
