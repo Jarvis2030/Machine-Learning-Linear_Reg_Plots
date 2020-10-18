@@ -14,7 +14,9 @@ I'm using a small dataset on salary to prove this relationship between years of 
 Important Links
 ===============
 #(1) formular link = "https://medium.com/meta-design-ideas/linear-regression-by-using-gradient-descent-algorithm-your-first-step-towards-machine-learning-a9b9c0ec41b1"
+
 #(2) [linear regression] https://onlinecourses.science.psu.edu/stat501/node/250
+
 #(3) Use [pip](https://pip.pypa.io/en/stable/) to install any dependencies.
 
 Here are some helpful links:
