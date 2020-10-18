@@ -1,14 +1,15 @@
-# simple-Linear-Regression
-Simple Linear implementation with python
+# simple-Linear-Regression to predict the salary of an employee
+Is it true that your years of experience can determine the salary you earn?
+This Simple Linear implementation with python can tell us more about that.
 
 # linear_regression Model
-Ill advice you gather some knowledge on Statistics and linewar algebra(Not much though)
-This is the code for the "How to Do Linear Regression the Right Way"
+I'll advice you gather some knowledge on Statistics and linear algebra(Not much though)
+This is the code for the "How to Do Linear Regression the Right Way" and use it to predict the monthly salary of an employee.
 
 
 ## Overview of the code and everything
 
-I'm using a small dataset on salary to prove this relationship. 
+I'm using a small dataset on salary to prove this relationship between years of experience and the salary earned.
 
 Important Links
 ===============
